@@ -1,0 +1,11 @@
+Comandos básicos e suas funcionalidades:
+ - git init (criar um repositório .git)
+ - git status (mostrar o status atual, se prescisa incluir, commitar, etc)
+ - git add * (adicinar todos arquivos para assim fazer o commit)
+ - git commit -m "" (criar um commit com mensagem)
+ - git remote add 
+ - git push origin master
+ - 
+ - mkdir (criar pastas)
+ - cd (locomoção dentro do terminal)
+ - ls / ls -a (mostrar arquivos da pasta atual)
